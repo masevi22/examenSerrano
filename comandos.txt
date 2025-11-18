@@ -28,3 +28,7 @@ $ mv ../../prog/index.php index2.php
 
 ejercicio 9
 $ echo -e select * from clientes >> ../../login
+
+ejercicio 10
+$ cd ../../../
+$ rm -r examenSerrano/
