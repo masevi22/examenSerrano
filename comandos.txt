@@ -5,3 +5,7 @@ $ mkdir examenSerrano/prog examenSerrano/si examenSerrano/bbdd
 ejercicio 2
 $ cd examenSerrano
 $ touch prog/index.php
+
+ejercicio 3
+$ cd si
+$ cp ../prog/index.php ../bbdd/consultas.sql
