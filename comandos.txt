@@ -18,10 +18,13 @@ ejercicio 5
 $ cd si/git/
 
 ejercicio 6
-$ touch ../../login.txt
+$ touch ../../login
 
 ejercicio 7
 $ rm ../../bbdd/consultas.sql 
 
 ejercicio 8
 $ mv ../../prog/index.php index2.php
+
+ejercicio 9
+$ echo -e select * from clientes >> ../../login
