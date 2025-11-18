@@ -1,3 +1,7 @@
 ejercicio 1
 $ mkdir examenSerrano
 $ mkdir examenSerrano/prog examenSerrano/si examenSerrano/bbdd
+
+ejercicio 2
+$ cd examenSerrano
+$ touch prog/index.php
