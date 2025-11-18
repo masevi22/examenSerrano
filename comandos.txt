@@ -13,3 +13,6 @@ $ cp ../prog/index.php ../bbdd/consultas.sql
 ejercicio 4
 $ cd ..
 $ mkdir si/git
+
+ejercicio 5
+$ cd si/git/
