@@ -16,3 +16,6 @@ $ mkdir si/git
 
 ejercicio 5
 $ cd si/git/
+
+ejercicio 6
+$ touch ../../login.txt
