@@ -9,3 +9,7 @@ $ touch prog/index.php
 ejercicio 3
 $ cd si
 $ cp ../prog/index.php ../bbdd/consultas.sql
+
+ejercicio 4
+$ cd ..
+$ mkdir si/git
