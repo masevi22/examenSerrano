@@ -19,3 +19,6 @@ $ cd si/git/
 
 ejercicio 6
 $ touch ../../login.txt
+
+ejercicio 7
+$ rm ../../bbdd/consultas.sql 
