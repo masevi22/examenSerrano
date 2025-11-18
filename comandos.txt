@@ -22,3 +22,6 @@ $ touch ../../login.txt
 
 ejercicio 7
 $ rm ../../bbdd/consultas.sql 
+
+ejercicio 8
+$ mv ../../prog/index.php index2.php
